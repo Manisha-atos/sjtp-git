@@ -2,3 +2,4 @@ Hello All
 Welcome All to the Class
 We are working on Branch concept
 Trainer Name is Manisha 
+we are using GitHub as Remote repo
